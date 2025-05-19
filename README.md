@@ -82,7 +82,7 @@ This OS-like UI is meant for educational and hobby use. Launcher scripts and sys
 
 ## 📸 Preview
 
-![EliotOS UI Screenshot]![elio](https://github.com/user-attachments/assets/0ea7de85-c362-491d-a60e-8d5c40d64cbb)
+![elio](https://github.com/user-attachments/assets/0ea7de85-c362-491d-a60e-8d5c40d64cbb)
 
 
 ## 🙌 Credits
